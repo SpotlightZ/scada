@@ -1,0 +1,7 @@
+{
+    "packages": [
+        { "path": "./BasicShapes.ts" },
+        { "path": "./BasicControls.ts" },
+        { "path": "./ECharts.ts"}
+    ]
+}
